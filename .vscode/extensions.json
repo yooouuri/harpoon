@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "Vue.volar",
+    "Vue.vscode-typescript-vue-plugin",
+    "rust-lang.rust-analyzer",
+    "bradlc.vscode-tailwindcss",
+    "tamasfe.even-better-toml"
+  ]
+}

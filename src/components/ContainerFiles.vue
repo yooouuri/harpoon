@@ -1,0 +1,3 @@
+<template>
+  Files
+</template>
